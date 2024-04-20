@@ -1,5 +1,6 @@
 
 
+
 ping
 Check wire first
 ping with ip to check for dns
