@@ -15,8 +15,9 @@ E.g. `'example string'.methodName()`.
 
 Does that syntax look a little familiar? When we use `console.log()` we’re calling the `.log()` method on the `console` object. Let’s see `console.log()` and some real string methods in action!
 
-```
-console.log('hello'.toUpperCase()); // Prints 'HELLO'console.log('Hey'.startsWith('H')); // Prints true
+``` js
+console.log('hello'.toUpperCase()); // Prints 'HELLO'
+console.log('Hey'.startsWith('H')); // Prints true
 ```
 
 Let’s look at each of the lines above:

@@ -18,7 +18,7 @@ The first 7 of those types are considered _primitive data types_. They are the m
 
 But before we do that, let’s get comfortable with strings and numbers!
 
-```
+``` javascript
 console.log('Location of Codecademy headquarters: 575 Broadway, New York City');console.log(40);
 ```
 
